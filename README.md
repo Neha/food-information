@@ -1,6 +1,8 @@
 # Food Information
 A Food information to show the food-item isDelicious or isHealthy
 
+Demo : https://foodinformation.netlify.com/
+
 ## Tech Stack
 - ReactJS : Used CRA for the scaffolding.
 - Styled-components : For Styling the components
@@ -44,7 +46,9 @@ To create the solution there are 2 approaches one can take:
 2) HOC 
 
 I have developed the solution on HOC. Reason is to make this generic and let the consumer gives
-the control of changing the structure of the table , order of the table etc. I have combined it with the styled-components. As it was mentioned that it is one of the bonus point otherwise I would have use SCSS. 
+the control of changing the structure of the table , order of the table etc. I have combined it with the styled-components. As it was mentioned that it is one of the bonus point otherwise I would have use SCSS.
+
+# Thank you!!
 
 
 
